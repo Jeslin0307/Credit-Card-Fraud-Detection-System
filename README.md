@@ -12,6 +12,7 @@ This project focuses on detecting fraudulent credit card transactions using EDA,
 
 ## Dataset
 **Source:** Kaggle
+
 **Dataset:** Credit Card Fraud Detection Dataset
 
 ## Technologies Used
