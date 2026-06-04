@@ -24,6 +24,7 @@ This project focuses on detecting fraudulent credit card transactions using EDA,
   
 ## Visualizations
 * Fraud Distribution
+<img width="845" height="589" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/d7787e94-584c-4948-9a49-6d770ea31724" />
 * Transaction Amount Analysis
 * Scatter Plots
 * Correlation Heatmap
