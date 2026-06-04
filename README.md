@@ -30,7 +30,8 @@ This project focuses on detecting fraudulent credit card transactions using EDA,
 ![Amount Distribution](images/Amount%20Distribution.png)
 
 ### Scatter Plots
-![Fraud vs Amount](images/
+![Fraud vs Amount](images/Fraud%20vs%20Amount.png)
+![Time vs Amount](images/Time%20vs%20Amount.png)
 
 ### Correlation Heatmap
 ![Heatmap](images/Correlation%20Heatmap.png)
