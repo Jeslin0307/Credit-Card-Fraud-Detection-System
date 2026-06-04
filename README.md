@@ -23,8 +23,9 @@ This project focuses on detecting fraudulent credit card transactions using EDA,
 * Scikit-learn
   
 ## Visualizations
-* Fraud Distribution
-<img width="845" height="589" alt="Screenshot (414)" src="https://github.com/user-attachments/assets/d7787e94-584c-4948-9a49-6d770ea31724" />
+### Fraud Distribution
+![Fraud Distribution](images/fraud_distribution.png)
+
 
 * Transaction Amount Analysis
 <img width="827" height="561" alt="Screenshot (415)" src="https://github.com/user-attachments/assets/430d511a-8145-4ad4-85f8-e0708b80146f" />
